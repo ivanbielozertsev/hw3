@@ -1,2 +1,2 @@
-const ourPlanet = 'Earth'
-let userName = prompt('What is you name?', 'John')
+const ourPlanet = 'Earth';
+let userName = prompt('What is you name?', 'John');
