@@ -1,4 +1,4 @@
-let admin;
-let name = 'Джон';
+const admin;
+const name = 'Джон';
 admin = name;
 alert(admin);
